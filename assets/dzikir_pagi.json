@@ -1,20 +1,14 @@
 [
   {
       "arab": "سُبْحَانَ اللَّهِ",
-      "latin": "Subhanallah",
-      "arti": "Maha Suci Allah",
-      "audio": "assets/audio/"
-    },
-    {
+      "arti": "Maha Suci Allah"
+        },
+        {
       "arab": "الْحَمْدُ لِلَّهِ",
-      "latin": "Alhamdulillah",
-      "arti": "Segala puji bagi Allah",
-      "audio": "assets/audio/"
-    },
-    {
+      "arti": "Segala puji bagi Allah"
+        },
+        {
       "arab": "اللَّهُ أَكْبَرُ",
-      "latin": "Allahu Akbar",
-      "arti": "Allah Maha Besar",
-      "audio": "assets/audio/"
+      "arti": "Allah Maha Besar"
     }
 ]
